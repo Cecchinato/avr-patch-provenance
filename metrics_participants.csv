@@ -1,0 +1,97 @@
+SID,SwitchToHuman,SwitchToAI,ClaudePicks,LeftPicks,Population,Profile1,Profile2
+1,0,0,3,1,professional,never switched,mostly Claude
+2,0,0,2,2,professional,never switched,"2-2, changing side"
+3,0,0,3,3,professional,never switched,mostly Claude
+4,0,1,2,4,professional,towards AI,"2-2, always same side"
+5,0,0,1,1,professional,never switched,mostly GPT-4o
+6,1,0,2,2,professional,towards human,"2-2, changing side"
+7,1,0,3,1,professional,towards human,mostly Claude
+8,0,0,3,3,professional,never switched,mostly Claude
+9,0,0,4,2,professional,never switched,mostly Claude
+10,0,0,4,2,professional,never switched,mostly Claude
+11,0,0,3,3,professional,never switched,mostly Claude
+12,0,1,3,3,professional,towards AI,mostly Claude
+13,0,0,3,1,professional,never switched,mostly Claude
+14,0,0,3,3,professional,never switched,mostly Claude
+15,0,0,3,3,academic,never switched,mostly Claude
+16,1,0,2,2,academic,towards human,"2-2, changing side"
+17,1,0,2,2,academic,towards human,"2-2, changing side"
+18,0,0,3,3,academic,never switched,mostly Claude
+19,0,0,2,2,academic,never switched,"2-2, changing side"
+20,1,0,2,4,academic,towards human,"2-2, always same side"
+21,0,1,2,0,academic,towards AI,"2-2, always same side"
+22,0,0,4,2,academic,never switched,mostly Claude
+23,0,0,3,3,academic,never switched,mostly Claude
+24,2,0,3,1,academic,towards human,mostly Claude
+25,0,1,1,1,academic,towards AI,mostly GPT-4o
+26,0,0,4,2,academic,never switched,mostly Claude
+27,0,0,1,1,academic,never switched,mostly GPT-4o
+28,0,0,2,0,academic,never switched,"2-2, always same side"
+29,2,0,1,1,academic,towards human,mostly GPT-4o
+30,1,0,2,4,academic,towards human,"2-2, always same side"
+31,0,0,4,2,academic,never switched,mostly Claude
+32,2,0,3,1,academic,towards human,mostly Claude
+33,0,0,1,3,academic,never switched,mostly GPT-4o
+34,0,1,3,1,academic,towards AI,mostly Claude
+35,1,0,3,3,academic,towards human,mostly Claude
+36,1,0,1,1,academic,towards human,mostly GPT-4o
+37,0,1,4,2,academic,towards AI,mostly Claude
+38,1,0,3,1,academic,towards human,mostly Claude
+39,0,0,3,1,academic,never switched,mostly Claude
+40,0,0,3,3,academic,never switched,mostly Claude
+41,0,1,2,2,academic,towards AI,"2-2, changing side"
+42,1,0,2,0,academic,towards human,"2-2, always same side"
+43,2,0,1,1,academic,towards human,mostly GPT-4o
+44,1,0,4,2,academic,towards human,mostly Claude
+45,0,0,4,2,academic,never switched,mostly Claude
+46,0,0,2,0,academic,never switched,"2-2, always same side"
+47,0,0,3,3,academic,never switched,mostly Claude
+48,0,0,2,0,academic,never switched,"2-2, always same side"
+49,0,0,2,0,academic,never switched,"2-2, always same side"
+50,0,1,3,1,academic,towards AI,mostly Claude
+51,0,0,2,2,academic,never switched,"2-2, changing side"
+52,0,0,2,0,academic,never switched,"2-2, always same side"
+53,1,0,2,2,academic,towards human,"2-2, changing side"
+54,0,1,2,2,academic,towards AI,"2-2, changing side"
+55,0,0,2,2,academic,never switched,"2-2, changing side"
+56,0,0,3,3,academic,never switched,mostly Claude
+57,0,0,1,3,academic,never switched,mostly GPT-4o
+58,0,0,3,3,academic,never switched,mostly Claude
+59,1,0,0,2,academic,towards human,mostly GPT-4o
+60,1,0,4,2,academic,towards human,mostly Claude
+61,0,0,0,2,academic,never switched,mostly GPT-4o
+62,2,0,1,1,academic,towards human,mostly GPT-4o
+63,0,0,3,1,academic,never switched,mostly Claude
+64,1,0,3,1,academic,towards human,mostly Claude
+65,0,0,2,2,academic,never switched,"2-2, changing side"
+66,0,0,2,4,academic,never switched,"2-2, always same side"
+67,0,0,2,2,academic,never switched,"2-2, changing side"
+68,0,0,3,3,academic,never switched,mostly Claude
+69,1,0,2,0,academic,towards human,"2-2, always same side"
+70,0,0,1,1,academic,never switched,mostly GPT-4o
+71,0,0,2,0,academic,never switched,"2-2, always same side"
+72,1,0,2,2,academic,towards human,"2-2, changing side"
+73,0,0,3,1,academic,never switched,mostly Claude
+74,1,0,4,2,academic,towards human,mostly Claude
+75,0,0,2,2,academic,never switched,"2-2, changing side"
+76,0,0,2,2,academic,never switched,"2-2, changing side"
+77,0,0,4,2,academic,never switched,mostly Claude
+78,0,1,4,2,academic,towards AI,mostly Claude
+79,0,0,3,3,academic,never switched,mostly Claude
+80,0,0,4,2,academic,never switched,mostly Claude
+81,1,0,3,3,academic,towards human,mostly Claude
+82,0,0,4,2,academic,never switched,mostly Claude
+83,0,0,4,2,academic,never switched,mostly Claude
+84,0,0,3,1,academic,never switched,mostly Claude
+85,0,0,3,3,academic,never switched,mostly Claude
+86,1,0,4,2,academic,towards human,mostly Claude
+87,0,2,2,2,academic,towards AI,"2-2, changing side"
+88,0,0,4,2,academic,never switched,mostly Claude
+89,1,0,4,2,academic,towards human,mostly Claude
+90,1,0,2,2,academic,towards human,"2-2, changing side"
+91,0,0,2,2,academic,never switched,"2-2, changing side"
+92,0,0,3,3,academic,never switched,mostly Claude
+93,0,0,2,0,academic,never switched,"2-2, always same side"
+94,0,0,3,1,academic,never switched,mostly Claude
+95,0,0,3,3,academic,never switched,mostly Claude
+96,0,0,4,2,academic,never switched,mostly Claude
